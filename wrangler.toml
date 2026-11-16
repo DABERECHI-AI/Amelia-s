@@ -1,1 +1,4 @@
+name = "amelias-website"
+compatibility_date = "2026-11-16"
 
+pages_build_output_dir = "./dist"
